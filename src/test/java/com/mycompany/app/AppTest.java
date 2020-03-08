@@ -10,6 +10,9 @@ import static org.junit.Assert.*;
 /**
  * Unit test for simple App.
  */
+/**
+ * Master branch.
+ */
 public class AppTest
 {
 
