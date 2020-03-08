@@ -13,6 +13,9 @@ import static org.junit.Assert.*;
 /**
  * Master branch.
  */
+ /**
+ * Unit test for simple App new.
+ */
 public class AppTest
 {
 
